@@ -1,0 +1,73 @@
+.mudar{
+    color: green;
+    background-color: aqua;
+    font-size: 30px;
+}
+
+.item {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    margin: 15px;
+    cursor: pointer;
+}
+
+.troca {
+    background-color: orangered;
+    color: blue;
+}
+
+.ex2 {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+.ex3 , .caixas5{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    margin: 15px;
+    cursor: pointer;
+}
+
+.rosa {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.rosa2{
+color: rgb(252, 71, 102);
+background-color: pink;
+}
+
+.ex6{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    margin: 15px;
+    cursor: pointer;
+}
+
+.ex6Mudado{
+    color: white;
+    background-color: black;
+    border: 5px solid blue;
+}
+
+.ex9{
+    border-radius: 20px;
+    height: 30px;
+    border: 1px solid gray;
+    margin: 15px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.troca2 {
+    background-color: black;
+    color: white;
+}
+
